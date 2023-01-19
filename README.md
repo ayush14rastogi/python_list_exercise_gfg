@@ -1,2 +1,1 @@
-# python_list_exercise_gfg
-python_list_exercise_gfg
+https://www.geeksforgeeks.org/python-list-exercise/
